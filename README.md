@@ -1,3 +1,2 @@
 # operatorler
-operatorler
-dd
+patika C# 101 kursundaki operatorler odevi
